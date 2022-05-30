@@ -3,7 +3,7 @@
 
 - 💻 Sou desenvolvedor em linguagem Python e .Lua
 
-- 📚 Estudando HTML e CSS
+- 📚 Estudando HTML e CSS e Node.js
 
 - 📓 Futuro estudante de SQL e Ethical Hacking
 
